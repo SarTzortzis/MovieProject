@@ -1,0 +1,23 @@
+{
+  "status": {
+    "danger": "orange",
+    "error": "red",
+    "success": "green"
+  },
+  "color": {
+    "secondary": "rgb(0, 0, 255)",
+    "main": "rgb(80,133,224)",
+    "text": "rgb(45,45,45)",
+    "textSecondary": "rgb(100,100,100)",
+    "background": "rgb(246, 246, 246)",
+
+    "selected": "rgba(228,234,255,1)",
+    "hovered": "rgba(228,234,255,0.6)",
+    "black100": "rgba(0,0,0)",
+    "black60": "rgba(0,0,0,0.6)",
+    "black30": "rgba(0,0,0,0.3)",
+    "black10": "rgba(0,0,0,0.1)",
+    "white100": "rgba(255,255,255,1)",
+    "shadowColor": "rgba(0,0,0,0.1)"
+  }
+}
